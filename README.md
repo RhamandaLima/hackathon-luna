@@ -1,4 +1,4 @@
-<h1 align="center">Easter Eggs Food 🐰</h1>
+<h1 align="center">ChocoLovers🐰</h1>
 
 <h3 align="center">Web app criado no Hackathon-Decola Luna 🚀</h3>
 
